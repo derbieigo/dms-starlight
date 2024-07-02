@@ -1,15 +1,21 @@
 # DMS Documentation Demo [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
+### Clone Project
+
 #### Using HTTPS
 ```
 git clone https://github.com/derbieigo/dms-starlight.git
 ```
-
-
 #### Using SSH
 ```
 git clone git@github.com:derbieigo/dms-starlight.git
 ```
+
+### Run
+```
+npm run dev
+```
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
